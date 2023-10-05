@@ -35,5 +35,6 @@ yarn-error.*
 *.tsbuildinfo
 
 package-lock.json
-assets
 .vscode
+dist
+*.apk
